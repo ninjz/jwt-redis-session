@@ -20,6 +20,7 @@
     "url": "git://github.com/azuqua/jwt-redis-session"
   },
   "dependencies": {
+    "express-unless": "^0.3.0",
     "jsonwebtoken": "^5.5.4",
     "lodash": "^3.10.1",
     "node-uuid": "^1.4.1"
